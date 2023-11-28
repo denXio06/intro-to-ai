@@ -1,49 +1,49 @@
-	Age	Total years of Working Experience	Total Estimate Current Monthly Income	Total income-generating streams before the pandemic	Total income-generating streams after the pandemic	"TODAY (or post-pandemic), how do you prioritize the below category in your budget allocation? [Emergency Fund]"
-1	40	17	170000	4	3	Extremely High
-2	49	27	110000	2	1	Low
-3	46	17	80000	5	5	High
-4	44	20	145000	4	4	Extremely High
-5	31	5	30000	9	8	Medium
-6	49	27	80000	0	1	High
-7	51	28	60000	3	3	Extremely High
-8	50	28	65000	1	1	Extremely High
-9	35	14	60000	3	5	Extremely High
-10	35	14	160000	3	3	Medium
-11	32	10	145000	4	4	Medium
-12	28	8	100000	3	3	High
-13	38	12	80000	9	3	High
-14	32	10	200000	3	6	Low
-15	28	8	40000	2	1	Medium
-16	43	13	160000	5	6	Extremely High
-17	40	15	160000	4	3	Extremely High
-18	28	5	60000	2	2	High
-19	29	1	20000	3	5	Medium
-20	38	16	70000	3	3	Low
-21	39	17	185000	6	5	Extremely High
-22	25	2	80000	0	1	Medium
-23	24	1	40000	0	1	High
-24	21	1	10000	1	2	High
-25	42	19	80000	2	2	High
-26	43	7	130000	3	5	Extremely High
-27	31	7	60000	10	6	High
-28	30	7	40000	1	3	High
-29	26	7	70000	2	4	High
-30	38	14	155000	4	4	Extremely High
-31	30	11	85000	3	4	High
-32	26	1	20000	1	4	High
-33	28	5	20000	1	1	Low
-34	26	4	60000	2	4	High
-35	55	35	120000	3	5	High
-36	28	5	60000	2	4	High
-37	28	5	90000	2	4	Extremely High
-38	25	2	75000	2	3	Extremely High
-39	34	15	160000	5	6	Extremely High
-40	46	20	145000	3	3	Extremely High
-41	25	1	40000	0	2	High
-42	31	12	95000	3	5	Extremely High
-43	25	1	20000	0	1	Extremely High
-44	32	10	145000	4	4	Extremely High
-45	29	9	60000	3	3	Extremely High
-46	42	23	120000	4	4	Extremely High
-47	35	15	130000	4	4	High
-48	31	8	120000	2	4	High
+,Age,Total years of Working Experience,Total Estimate Current Monthly Income,Total income-generating streams before the pandemic,Total income-generating streams after the pandemic,"TODAY (or post-pandemic), how do you prioritize the below category in your budget allocation? [Emergency Fund]"
+1,40,17,170000,4,3,Extremely High
+2,49,27,110000,2,1,Low
+3,46,17,80000,5,5,High
+4,44,20,145000,4,4,Extremely High
+5,31,5,30000,9,8,Medium
+6,49,27,80000,0,1,High
+7,51,28,60000,3,3,Extremely High
+8,50,28,65000,1,1,Extremely High
+9,35,14,60000,3,5,Extremely High
+10,35,14,160000,3,3,Medium
+11,32,10,145000,4,4,Medium
+12,28,8,100000,3,3,High
+13,38,12,80000,9,3,High
+14,32,10,200000,3,6,Low
+15,28,8,40000,2,1,Medium
+16,43,13,160000,5,6,Extremely High
+17,40,15,160000,4,3,Extremely High
+18,28,5,60000,2,2,High
+19,29,1,20000,3,5,Medium
+20,38,16,70000,3,3,Low
+21,39,17,185000,6,5,Extremely High
+22,25,2,80000,0,1,Medium
+23,24,1,40000,0,1,High
+24,21,1,10000,1,2,High
+25,42,19,80000,2,2,High
+26,43,7,130000,3,5,Extremely High
+27,31,7,60000,10,6,High
+28,30,7,40000,1,3,High
+29,26,7,70000,2,4,High
+30,38,14,155000,4,4,Extremely High
+31,30,11,85000,3,4,High
+32,26,1,20000,1,4,High
+33,28,5,20000,1,1,Low
+34,26,4,60000,2,4,High
+35,55,35,120000,3,5,High
+36,28,5,60000,2,4,High
+37,28,5,90000,2,4,Extremely High
+38,25,2,75000,2,3,Extremely High
+39,34,15,160000,5,6,Extremely High
+40,46,20,145000,3,3,Extremely High
+41,25,1,40000,0,2,High
+42,31,12,95000,3,5,Extremely High
+43,25,1,20000,0,1,Extremely High
+44,32,10,145000,4,4,Extremely High
+45,29,9,60000,3,3,Extremely High
+46,42,23,120000,4,4,Extremely High
+47,35,15,130000,4,4,High
+48,31,8,120000,2,4,High
